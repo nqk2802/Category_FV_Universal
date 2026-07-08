@@ -1,0 +1,373 @@
+﻿No,FinViet Category,Universal Category - Adjusted
+1,"Bia, nước uống có cồn",Bia
+2,"Cà phê, trà khô, túi lọc hoà tan",Cà phê hòa tan
+3,"Nước ngọt, nước trà giải khát",Nước ngọt có gas
+4,"Nước suối, nước khoáng",Nước khoáng
+5,"Nước tăng lực, nước bù khoáng",Nước tăng lực
+6,"Nước trái cây, trái cây hộp, siro",Nước trái cây / nectar
+7,Nước yến,Đồ uống dinh dưỡng
+8,"Trà sữa, sữa trái cây",Đồ uống có hương vị
+9,"Dầu ăn, bơ",Dầu ăn
+10,"Dầu hào, dấm, sốt các loại",Sốt nấu ăn
+11,"Đường, muối, tiêu",Gia vị / hạt nêm
+12,Gia vị khác,Gia vị / hạt nêm
+13,"Gia vị tẩm ướp, nêm sẵn",Gia vị / hạt nêm
+14,"Hạt nêm, bột ngọt, bột canh",Gia vị / hạt nêm
+15,"Nước chấm, mắm tôm, mù tạt",Nước chấm / gia vị dạng lỏng
+16,Nước mắm,Nước chấm / gia vị dạng lỏng
+17,Nước tương,Nước chấm / gia vị dạng lỏng
+18,"Tương ớt, tương cà, tương đen",Sốt nấu ăn
+19,"Bánh canh, bánh đa cua, bún ăn liền",Khăn giấy nhà bếp
+20,Bánh gạo Hàn Quốc (Tokbokki),Thực phẩm chế biến đông lạnh
+21,"Cháo ăn liền, cháo tươi",Cháo ăn liền / súp ăn liền
+22,Mì ăn liền,Mì ăn liền
+23,"Phở, hủ tiếu, miến ăn liền...",Mì ăn liền
+24,Diệt côn trùng,Khử mùi / khử khuẩn / diệt côn trùng
+25,"Nước giặt, bột giặt",Giặt xả
+26,"Nước lau sàn, lau bếp, lau kính",Vệ sinh nhà cửa
+27,Nước rửa chén,Rửa chén
+28,Nước tẩy quần áo (Javel),Giặt xả
+29,Nước xả vải,Giặt xả
+30,"Tẩy rửa bồn cầu, nhà tắm",Vệ sinh nhà cửa
+31,"Xịt phòng, sáp thơm, túi thơm",Khử mùi / khử khuẩn / diệt côn trùng
+32,Sữa bột,Bột dinh dưỡng
+33,"Sữa cacao, lúa mạch",Cacao / thức uống chocolate
+34,"Sữa chua, phô mai",Sữa chua
+35,"Sữa đặc, sữa kem lỏng",Bơ / kem sữa
+36,"Sữa đậu nành, sữa hạt",Sữa nước
+37,Sữa tươi,Sữa nước
+38,"Yến mạch, ngũ cốc",Bột / ngũ cốc / đậu / hạt
+39,Bình sữa và đồ dùng sơ sinh,Sản phẩm vệ sinh & chăm sóc em bé
+40,Chăm sóc da cho bé,Sản phẩm vệ sinh & chăm sóc em bé
+41,"Dầu gội, sữa tắm",Tắm gội & vệ sinh cơ thể
+42,Đồ đi chơi cho bé,Sản phẩm vệ sinh & chăm sóc em bé
+43,Đồ dùng ăn uống cho bé,Sản phẩm vệ sinh & chăm sóc em bé
+44,Đồ dùng khác cho bé,Sản phẩm vệ sinh & chăm sóc em bé
+45,Đồ dùng vệ sinh cho bé,Sản phẩm vệ sinh & chăm sóc em bé
+46,"Khăn ướt, khăn sữa",Khăn ướt em bé
+47,Mẹ bầu và sau sinh,Chăm sóc phụ nữ
+48,"Nước giặt, nước xả vải",Giặt xả
+49,"Sữa, bột cho bé",Thực phẩm cho bé / dinh dưỡng trẻ nhỏ
+50,Tã bỉm,Tã / bỉm / quần tã
+51,Công Nghệ,None FMCG
+52,Hàng Nhập Khẩu,None FMCG
+53,Nhà cửa,Vệ sinh nhà cửa
+54,Nữ,None FMCG
+55,Rượu/Bia/Nước Giải Khát,Bia
+56,Sản Phẩm Khuyến Mãi 0 Đồng,None FMCG
+57,Sức Khỏe,None FMCG
+58,Thực Phẩm,Bữa ăn chế biến sẵn
+59,Thuốc Lá,None FMCG
+60,"Bàn phím, chuột máy tính",None FMCG
+61,Băng keo 2 mặt (giấy-xốp),Văn phòng phẩm cơ bản
+62,"Băng keo trong, đục, Simili",Văn phòng phẩm cơ bản
+63,"Dao rọc giấy, lưỡi dao",Văn phòng phẩm cơ bản
+64,Dụng cụ cắt băng keo,Văn phòng phẩm cơ bản
+65,"Hồ nước, hồ khô",None FMCG
+66,Kéo các loại,Văn phòng phẩm cơ bản
+67,"Súng bắn keo, bắn giá, keo Silicon",Văn phòng phẩm cơ bản
+68,Bánh bông lan,Bánh quy / cookies / bánh ngọt đóng gói
+69,Bánh cho bé,Bánh quy / cookies / bánh ngọt đóng gói
+70,Bánh khác,Bánh quy / cookies / bánh ngọt đóng gói
+71,"Bánh que, bánh quế",Bánh quy / cookies / bánh ngọt đóng gói
+72,"Bánh quy, xốp",Bánh quy / cookies / bánh ngọt đóng gói
+73,"Bánh socola, socola",Bánh quy / cookies / bánh ngọt đóng gói
+74,"Bánh tươi (bánh mì, trứng,…)",Bánh quy / cookies / bánh ngọt đóng gói
+75,"Cơm cháy, bánh tráng trộn, khô (gà, bò,…)",Đồ nhựa gia dụng nhỏ
+76,"Mứt, hạt, rau câu, thạch các loại",Món tráng miệng mát
+77,"Sing-gum, kẹo các loại",Văn phòng phẩm cơ bản
+78,"Snack, khoai tây, rong biển",Snack mặn
+79,Bếp/ Lò/ Vỉ,Đồ nhựa gia dụng nhỏ
+80,Bình/ Ly/ Tô/ Chén/ Đĩa/ Xô/Thố,Đồ nhựa gia dụng nhỏ
+81,Dao/ Kéo/Dụng Cụ cắt tỉa,Văn phòng phẩm cơ bản
+82,Khuôn/Khay Làm Bánh,None FMCG
+83,May xay/ Máy Ép/ Máy Trộn,Đồ nhựa gia dụng nhỏ
+84,Nồi/Chảo,None FMCG
+85,Phụ Kiện Nhà Bếp,Đồ nhựa gia dụng nhỏ
+86,Thớt,Đồ nhựa gia dụng nhỏ
+87,Bìa còng Simili các loại,Văn phòng phẩm cơ bản
+88,"Bìa còng, bìa nhựa",Bia
+89,"Bìa lá, trình ký, cardcase",Bia
+90,"Bìa lỗ, bìa phân trang, bìa lò xo",Bia
+91,"Rổ xéo, kệ nhựa, kệ mica",Cá
+92,"Bút bi, bút nước, bút máy",Văn phòng phẩm cơ bản
+93,"Bút chì, ruột chì",Văn phòng phẩm cơ bản
+94,Bút dạ quang,Văn phòng phẩm cơ bản
+95,Bút lông bảng,Văn phòng phẩm cơ bản
+96,Bút lông dầu,Văn phòng phẩm cơ bản
+97,"Bút vẽ, cọ vẽ, con lăn",Văn phòng phẩm cơ bản
+98,"Bút xóa, xóa kéo, ruột xóa kéo",Văn phòng phẩm cơ bản
+99,"Gôm, chuốt bút chì",Văn phòng phẩm cơ bản
+100,"Mực dấu, mực bút lông, mực máy in",Văn phòng phẩm cơ bản
+101,"Phấn, bút phấn",Văn phòng phẩm cơ bản
+102,Phụ kiện bút viết,Văn phòng phẩm cơ bản
+103,"Cáp, sạc các loại",None FMCG
+104,Combo,None FMCG
+105,Dấu vuông Công ty,Văn phòng phẩm cơ bản
+106,Điện Thoại/Máy Tính Bảng,Đồ nhựa gia dụng nhỏ
+107,Phụ Kiện,None FMCG
+108,Pin,Pin
+109,Thẻ Cào Vật Lý,Đồ nhựa gia dụng nhỏ
+110,Beverages,Đồ uống có hương vị
+111,Bre Pastry,Bánh quy / cookies / bánh ngọt đóng gói
+112,Dairy,Sữa nước
+113,Dairy Ingredient,Bơ / kem sữa
+114,Groceries,Bữa ăn chế biến sẵn
+115,Meat,Thịt đỏ
+116,Other Fats,Dầu ăn
+117,Seafood,Hải sản
+118,Vegetables,Rau
+119,Dầu nhớt động cơ,None FMCG
+120,Dầu thủy lực,None FMCG
+121,Dầu truyền động,None FMCG
+122,Dung dịch làm mát,None FMCG
+123,Dịch vụ/Voucher ECO POS,Văn phòng phẩm cơ bản
+124,Điện thoại,Đồ nhựa gia dụng nhỏ
+125,Tablet,None FMCG
+126,Đồ chơi giải trí,None FMCG
+127,Đồ chơi trẻ em,None FMCG
+128,Aptomat,None FMCG
+129,Compact/Ballast,None FMCG
+130,Máng/Chao Đèn,None FMCG
+131,Mặt/Ổ Cắm/Hạt/Chiết Áp,None FMCG
+132,Bàn các loại,None FMCG
+133,Đồ nhựa,Đồ nhựa gia dụng nhỏ
+134,Dụng cụ làm vườn,None FMCG
+135,Ghế các loại,None FMCG
+136,"Kẹp, móc quần áo",Văn phòng phẩm cơ bản
+137,"Balo, túi xách",Văn phòng phẩm cơ bản
+138,"Bảng học sinh, bông lau bảng",Văn phòng phẩm cơ bản
+139,Bình nước học sinh,Văn phòng phẩm cơ bản
+140,Bộ dụng cụ học tập,Văn phòng phẩm cơ bản
+141,"Giấy kiểm tra, nhãn vở",Trà
+142,"Hộp bút, bóp viết",Văn phòng phẩm cơ bản
+143,Màu nước,Văn phòng phẩm cơ bản
+144,"Nhãn tập, bìa bao tập, sách",Văn phòng phẩm cơ bản
+145,Sáp tô màu các loại,Văn phòng phẩm cơ bản
+146,"Tập tô màu, miếng dán các loại",Văn phòng phẩm cơ bản
+147,"Thước các loại, compa",Văn phòng phẩm cơ bản
+148,Chảo chống dính,Văn phòng phẩm cơ bản
+149,"Dao, kéo, thớt",Văn phòng phẩm cơ bản
+150,Dụng cụ làm bánh,Văn phòng phẩm cơ bản
+151,Hộp đựng thực phẩm,Đồ nhựa gia dụng nhỏ
+152,"Khay, ly làm đá",Đồ nhựa gia dụng nhỏ
+153,"Nồi, bộ nồi",Đồ nhựa gia dụng nhỏ
+154,"Thau, rổ, thố",Đồ nhựa gia dụng nhỏ
+155,Bình đựng nước,Văn phòng phẩm cơ bản
+156,Chén bát,Đồ nhựa gia dụng nhỏ
+157,Đĩa,Đồ nhựa gia dụng nhỏ
+158,Đũa - Muỗng,Đồ nhựa gia dụng nhỏ
+159,Ly - Bộ ly,Đồ nhựa gia dụng nhỏ
+160,"Chăn, ga, áo gối",None FMCG
+161,"Giường, tủ",None FMCG
+162,Gối nằm,None FMCG
+163,Mùng,None FMCG
+164,Nệm,None FMCG
+165,"Bấm kim, kim bấm, kẹp giấy",Văn phòng phẩm cơ bản
+166,Bấm lỗ,Văn phòng phẩm cơ bản
+167,"Bảng tên, dây đeo",None FMCG
+168,Bộ dụng cụ văn phòng,Văn phòng phẩm cơ bản
+169,Đĩa CD,Văn phòng phẩm cơ bản
+170,"Kẹp bướm, gỡ ghim, đinh ghim",Văn phòng phẩm cơ bản
+171,Máy tính cầm tay,Văn phòng phẩm cơ bản
+172,Đồ lót,None FMCG
+173,Giày Nam,Văn phòng phẩm cơ bản
+174,Phụ Kiện Nam,Rau gia vị / nấm
+175,Tất vớ,None FMCG
+176,Trang Phục Nam,None FMCG
+177,Túi Nam,None FMCG
+178,Phụ Kiện Nữ,None FMCG
+179,Trang Phục Nữ,None FMCG
+180,Túi Nữ,None FMCG
+181,"Nhang, hương",Khử mùi / khử khuẩn / diệt côn trùng
+182,Giày/Dép Trẻ Em,None FMCG
+183,Nước Hoa,None FMCG
+184,Phụ Kiện Thời Trang,Đồ nhựa gia dụng nhỏ
+185,Quần/Áo Trẻ Em,None FMCG
+186,Túi Trẻ Em,None FMCG
+187,Kem thoa các loại,Đồ nhựa gia dụng nhỏ
+188,Thực Phẩm Chức Năng,None FMCG
+189,F&B,Bữa ăn chế biến sẵn
+190,Đồ uống các loại,Đồ uống có hương vị
+191,Sản phẩm từ sữa,Sữa nước
+192,"Bánh tráng, bánh phồng",Snack mặn
+193,Bột cacao,Cacao / thức uống chocolate
+194,"Bột làm bánh, bột rau câu, bột chiên",Bột / ngũ cốc / đậu / hạt
+195,"Cá mắm, dưa mắm, đồ chua...",Nước chấm / gia vị dạng lỏng
+196,"Đậu, nấm, đồ khô",Bột / ngũ cốc / đậu / hạt
+197,Đồ chay các loại,Bữa ăn chế biến sẵn
+198,"Đồ hộp, đồ chế biến sẵn",Đồ hộp
+199,"Gạo, nếp",Gạo
+200,"Mì, nui, bún khô...",Mì / nui / pasta
+201,"Ngũ cốc, yến mạch",Bột / ngũ cốc / đậu / hạt
+202,"Nước cốt dừa, nguyên liệu nấu chè",Bột / ngũ cốc / đậu / hạt
+203,"Rong biển, tảo biển",Snack mặn
+204,"Xúc xích, lạp xưởng",Bữa ăn chế biến sẵn
+205,Các loại giấy khác,Văn phòng phẩm cơ bản
+206,"Giấy bìa, bìa kiếng, giấy màu",Bia
+207,Giấy decal,Cá
+208,"Giấy in văn phòng, giấy photo",Văn phòng phẩm cơ bản
+209,"Giấy phân trang, giấy note",Trà
+210,Giấy than,Văn phòng phẩm cơ bản
+211,Chăm Sóc Răng Miệng,Chăm sóc răng miệng
+212,Chăm Sóc Tóc/Râu,Chăm sóc tóc
+213,Dưỡng Da,Chăm sóc da
+214,Nước Hoa/ Xịt Khử Mùi,Sản phẩm khử mùi
+215,Bông Trang Điểm,Chăm sóc da
+216,Chăm Sóc Tóc,Chăm sóc tóc
+217,Nước Hoa/ Khử Mùi,Sản phẩm khử mùi
+218,Trang Điểm,Chăm sóc da
+219,Cây nước nóng lạnh,None FMCG
+220,Cốc lọc nước,None FMCG
+221,Lõi máy lọc nước,None FMCG
+222,Máy lọc nước RO,Đồ nhựa gia dụng nhỏ
+223,Máy nước nóng,None FMCG
+224,Máy rửa xe,None FMCG
+225,Máy giặt sấy,None FMCG
+226,Máy làm mát,None FMCG
+227,Máy lạnh,None FMCG
+228,Làm Đẹp Nam,Chăm sóc nam giới
+229,Bếp núc,None FMCG
+230,Điện Gia Dụng,None FMCG
+231,Đồ Điện,None FMCG
+232,Đồ Dùng Nhà Bếp,Đồ nhựa gia dụng nhỏ
+233,Đồ Dùng Nhà Bếp (2),Đồ nhựa gia dụng nhỏ
+234,Đồ Dùng Tiện Ích,None FMCG
+235,Dụng Cụ Vệ Sinh Nhà Cửa,Vệ sinh nhà cửa
+236,Dụng Cụ Vệ Sinh Nhà Cửa (2),Vệ sinh nhà cửa
+237,Giặt Giũ & Chăm Sóc Nhà Cửa,Giặt xả
+238,Nhà Tắm,Tắm gội & vệ sinh cơ thể
+239,Nội Thất,None FMCG
+240,Phòng Ngủ,None FMCG
+241,Khăn Các Loại,Khăn giấy
+242,BVS,Chăm sóc phụ nữ
+243,Làm Đẹp Nữ,Chăm sóc phụ nữ
+244,"Máy bán hàng, máy quét mã vạch",None FMCG
+245,Máy in,None FMCG
+246,Chăn/Drap/Mùng,None FMCG
+247,Phụ Kiện Phòng Ngủ,None FMCG
+248,Kính mắt,None FMCG
+249,Vỏ ruột bánh xe,Văn phòng phẩm cơ bản
+250,"Pin tiểu, pin đại",Pin
+251,Quà tặng,None FMCG
+252,Sạc dự phòng,None FMCG
+253,"Sách giáo khoa, bài tập",Văn phòng phẩm cơ bản
+254,Sách tham khảo,Văn phòng phẩm cơ bản
+255,Sách thiếu nhi,Văn phòng phẩm cơ bản
+256,Cao các loại,Đồ uống dinh dưỡng
+257,"Mật ong, bột nghệ...",Đồ uống dinh dưỡng
+258,"Nước sâm, linh chi, đông trùng,…",Đồ uống dinh dưỡng
+259,Yến sào,Đồ uống dinh dưỡng
+260,Dịch vụ khác,None FMCG
+261,Mua sắm,None FMCG
+262,Nhà hàng & Ăn uống,None FMCG
+263,Sự kiện & Giải trí,None FMCG
+264,Sức khỏe & Làm đẹp,None FMCG
+265,Bánh bao,Bữa ăn chế biến sẵn
+266,Bánh Flan - Kem - Phô Mai,Món tráng miệng mát
+267,Bánh giò - Xôi,Bữa ăn chế biến sẵn
+268,"Cá, Bò Viên - Chả Cá - Xúc Xích Tươi",Bữa ăn chế biến sẵn
+269,Chả - Giò - Nem,Bữa ăn chế biến sẵn
+270,Dimsum,Bữa ăn chế biến sẵn đông lạnh
+271,Thực phẩm trữ đông,Thực phẩm chế biến đông lạnh
+272,Thực phẩm trữ mát,Bữa ăn chế biến sẵn
+273,Trứng các loại,Trứng
+274,Tươi sống đóng gói,Thịt đỏ
+275,"Phiếu thu chi, phiếu xuất nhập kho, biên lai bán lẻ",None FMCG
+276,Sổ tay các loại,Văn phòng phẩm cơ bản
+277,"Tập vở, bì thư",Văn phòng phẩm cơ bản
+278,Dụng Cụ/Thiết Bị Tập Luyện/Làm Đẹp/Chăm Sóc Sức Khỏe,Văn phòng phẩm cơ bản
+279,Dược Phẩm (Thuốc),None FMCG
+280,Khăn Giấy/Khăn Ướt/Giấy Vệ Sinh/Tấm Lót/Khẩu Trang,Khăn giấy
+281,Miếng Lót/Tã Người Lớn,Tã / bỉm / quần tã
+282,"Tai nghe, loa các loại",None FMCG
+283,Thẻ cào điện thoại,Đồ nhựa gia dụng nhỏ
+284,Bàn ủi,None FMCG
+285,Đèn ngoài trời,Đồ nhựa gia dụng nhỏ
+286,Đèn sưởi,None FMCG
+287,Dụng cụ sửa chữa,None FMCG
+288,"Máy hút bụi, robot hút bụi",Đồ nhựa gia dụng nhỏ
+289,Máy hút mùi,None FMCG
+290,Máy lọc không khí,None FMCG
+291,Quạt,None FMCG
+292,Cân sức khoẻ,None FMCG
+293,Máy đo huyết áp,None FMCG
+294,Máy massage,None FMCG
+295,Máy sấy tóc,None FMCG
+296,Bếp gas,None FMCG
+297,Bếp hồng ngoại,None FMCG
+298,Bếp từ,None FMCG
+299,"Bình thuỷ điện, bình/ca đun nấu",Cá
+300,Lò nướng,None FMCG
+301,Lò vi sóng,None FMCG
+302,Máy đánh trứng,None FMCG
+303,Máy ép trái cây,None FMCG
+304,"Máy làm sữa đậu, hạt",None FMCG
+305,Máy pha cà phê,None FMCG
+306,"Máy rửa, sấy chén",Đồ nhựa gia dụng nhỏ
+307,Máy xay các loại,None FMCG
+308,Nồi áp suất,None FMCG
+309,Nồi chiên không dầu,None FMCG
+310,"Nồi cơm điện, gas",None FMCG
+311,Nồi lẩu điện,None FMCG
+312,Thiết bị khác,None FMCG
+313,Áo,None FMCG
+314,Quần,None FMCG
+315,Ăn Vặt,Snack mặn
+316,Bánh/Kẹo,Bánh quy / cookies / bánh ngọt đóng gói
+317,Bánh/Kẹo (2),Bánh quy / cookies / bánh ngọt đóng gói
+318,Bơ/Dầu Ăn,Dầu ăn
+319,Bột,Bột / ngũ cốc / đậu / hạt
+320,Các Loại Hạt/Mứt/Hoa Quả Sấy Khô,Trái cây
+321,Cháo/Mì/Miến/Bún/Phở/Hủ Tiếu Ăn Liền,Mì ăn liền
+322,Đồ Ăn Sẵn,Bữa ăn chế biến sẵn
+323,Đồ Đóng Hộp,Đồ hộp
+324,Đường,Gia vị / hạt nêm
+325,FLAN/YAOURT/THẠCH/JELLY/RAU CÂU,Món tráng miệng mát
+326,Gạo,Gạo
+327,Gia Vị/Nước Chấm,Nước chấm / gia vị dạng lỏng
+328,Hải Sản/Đồ Tươi Sống,Hải sản
+329,Kem,Kem / món tráng miệng đông lạnh
+330,Kẹo,Kẹo / kẹo dẻo
+331,Sữa Các Loại/Ngũ Cốc,Sữa nước
+332,SữaChuaĂn-Sữa Đặc,Sữa chua
+333,Thực Phẩm Khác,Bữa ăn chế biến sẵn
+334,Trà/Cà Phê,Cà phê hòa tan
+335,Trái Cây Tươi,Trái cây
+336,Xúc XÍch/Chả,Bữa ăn chế biến sẵn
+337,Yến Sào/Nước Yến,Đồ uống dinh dưỡng
+338,Hoa tươi,None FMCG
+339,Rau củ quả,Rau
+340,Thực phẩm chế biến,Bữa ăn chế biến sẵn
+341,Trái cây,Trái cây
+342,"Bật lửa, hộp diêm",Đồ nhựa gia dụng nhỏ
+343,Thuốc lá điện tử,None FMCG
+344,Chăm Sóc Da,Chăm sóc da
+345,Đồ Chơi/ Học Tập,Văn phòng phẩm cơ bản
+346,Dụng Cụ Chăm Sóc Sức Khỏe,None FMCG
+347,Tã/Bỉm,Tã / bỉm / quần tã
+348,Tủ lạnh khác,None FMCG
+349,Loa thanh (Soundbar),None FMCG
+350,"Đai, nẹp bảo vệ",None FMCG
+351,Khác,None FMCG
+352,Áo trùm và phụ kiện máy giặt,None FMCG
+353,Dụng cụ vệ sinh,Vệ sinh nhà cửa
+354,Găng tay,Vệ sinh nhà cửa
+355,"Băng vệ sinh, dung dịch vệ sinh",Chăm sóc phụ nữ
+356,"Bao cao su, gel bôi trơn",Chăm sóc phụ nữ
+357,Chăm sóc cá nhân khác,Tắm gội & vệ sinh cơ thể
+358,"Dao cạo râu, bọt cạo râu",Chăm sóc nam giới
+359,"Dầu gội, dầu xả",Giấy vệ sinh
+360,"Kem ủ, gel vuốt tóc, thuốc nhuộm",Chăm sóc tóc
+361,"Kem, bàn chải đánh răng",Chăm sóc răng miệng
+362,Khăn - Tất -  Quần,Chăm sóc phụ nữ
+363,"Khăn giấy, khăn giấy ướt",Khăn giấy
+364,Lăn xịt khử mùi,Khăn giấy
+365,"Nước hoa hồng, dưỡng ẩm, mặt nạ",Chăm sóc da
+366,"Nước rửa tay, khẩu trang",Tắm gội & vệ sinh cơ thể
+367,"Nước súc miệng, tăm, chỉ nha khoa",Chăm sóc răng miệng
+368,"Sữa dưỡng thể, kem chống nắng",Chăm sóc da
+369,"Sữa rửa mặt, tẩy trang, bông tẩy trang",Chăm sóc da
+370,"Sữa tắm, xà bông cục",Tắm gội & vệ sinh cơ thể
+371,"Tả, bĩm người lớn",Tã / bỉm / quần tã
+372,Tăm bông ráy tai,Tắm gội & vệ sinh cơ thể
