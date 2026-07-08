@@ -14,7 +14,7 @@
 13,"Gia vị tẩm ướp, nêm sẵn",Gia vị / hạt nêm
 14,"Hạt nêm, bột ngọt, bột canh",Gia vị / hạt nêm
 15,"Nước chấm, mắm tôm, mù tạt",Nước chấm / gia vị dạng lỏng
-16,Nước mắm,Nước chấm / gia vị dạng lỏng
+16,Nước mắm,Giấy Vệ sinh
 17,Nước tương,Nước chấm / gia vị dạng lỏng
 18,"Tương ớt, tương cà, tương đen",Sốt nấu ăn
 19,"Bánh canh, bánh đa cua, bún ăn liền",Khăn giấy nhà bếp
@@ -68,7 +68,7 @@
 67,"Súng bắn keo, bắn giá, keo Silicon",Văn phòng phẩm cơ bản
 68,Bánh bông lan,Bánh quy / cookies / bánh ngọt đóng gói
 69,Bánh cho bé,Bánh quy / cookies / bánh ngọt đóng gói
-70,Bánh khác,Bánh quy / cookies / bánh ngọt đóng gói
+70,Bánh khác,Giấy Vệ sinh
 71,"Bánh que, bánh quế",Bánh quy / cookies / bánh ngọt đóng gói
 72,"Bánh quy, xốp",Bánh quy / cookies / bánh ngọt đóng gói
 73,"Bánh socola, socola",Bánh quy / cookies / bánh ngọt đóng gói
@@ -102,7 +102,7 @@
 101,"Phấn, bút phấn",Văn phòng phẩm cơ bản
 102,Phụ kiện bút viết,Văn phòng phẩm cơ bản
 103,"Cáp, sạc các loại",None FMCG
-104,Combo,None FMCG
+104,Combo,Giấy Vệ sinh
 105,Dấu vuông Công ty,Văn phòng phẩm cơ bản
 106,Điện Thoại/Máy Tính Bảng,Đồ nhựa gia dụng nhỏ
 107,Phụ Kiện,None FMCG
@@ -357,7 +357,7 @@
 356,"Bao cao su, gel bôi trơn",Chăm sóc phụ nữ
 357,Chăm sóc cá nhân khác,Tắm gội & vệ sinh cơ thể
 358,"Dao cạo râu, bọt cạo râu",Chăm sóc nam giới
-359,"Dầu gội, dầu xả",Giấy vệ sinh
+359,"Dầu gội, dầu xả",Chăm sóc tóc
 360,"Kem ủ, gel vuốt tóc, thuốc nhuộm",Chăm sóc tóc
 361,"Kem, bàn chải đánh răng",Chăm sóc răng miệng
 362,Khăn - Tất -  Quần,Chăm sóc phụ nữ
